@@ -1,0 +1,24 @@
+=== TRACK: zengarden ===
+← Loaded Q-table from q_tables/zengarden_Q.csv
+  → Eval on zengarden: steps=425, progress=0.998
+    → Eval cumulative reward: 0.00
+=== TRACK: lighthouse ===
+← Loaded Q-table from q_tables/lighthouse_Q.csv
+  → Eval on lighthouse: steps=474, progress=0.998
+    → Eval cumulative reward: 0.00
+=== TRACK: hacienda ===
+← Loaded Q-table from q_tables/hacienda_Q.csv
+  → Eval on hacienda: steps=789, progress=0.997
+    → Eval cumulative reward: -1030.05
+=== TRACK: snowtuxpeak ===
+← Loaded Q-table from q_tables/snowtuxpeak_Q.csv
+  → Eval on snowtuxpeak: steps=548, progress=0.998
+    → Eval cumulative reward: 0.00
+=== TRACK: cornfield_crossing ===
+← Loaded Q-table from q_tables/cornfield_crossing_Q.csv
+  → Eval on cornfield_crossing: steps=733, progress=0.998
+    → Eval cumulative reward: 0.00
+=== TRACK: scotland ===
+← Loaded Q-table from q_tables/scotland_Q.csv
+  → Eval on scotland: steps=597, progress=0.997
+    → Eval cumulative reward: 0.00
